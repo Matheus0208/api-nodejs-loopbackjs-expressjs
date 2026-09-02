@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Curso AWS Prático
 
 Este repositório é o resultado da aula 5 do curso de AWS na Prática do canal [Um Inventor Qualquer](https://www.youtube.com/c/UmInventorQualquer)
@@ -13,3 +14,6 @@ Para aprender como executar esse ambiente em seu computador, acesse a documenta�
 Assista nosso vídeo no YouTube para ver passo a passo como utilizar esse repositório.
 
 [Criando uma API em 90 segundos](https://youtu.be/bU4M9tZhsTs)
+=======
+# api-nodejs-loopbackjs-expressjs
+>>>>>>> 13c22cbcd7798702087a5874b2c29e5b17fd2b4e
