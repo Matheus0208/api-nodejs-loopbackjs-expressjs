@@ -1,4 +1,4 @@
-# Curso AWS Prático — API em 90 segundos
+# Curso AWS Prático — Projeto API
 
 Este repositório é o resultado prático da **Aula 5** do curso **AWS na Prática**, do canal [Um Inventor Qualquer](https://www.youtube.com/c/UmInventorQualquer) no YouTube. Nele você encontra uma API REST completa, criada em poucos minutos com **LoopbackJS** (sobre **ExpressJS**), pronta para rodar em containers **Docker** com um banco de dados **MySQL**.
 
